@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vpatrol/static/css/main.1e57b296.css",
+    "main.js": "/vpatrol/static/js/main.9ef3557f.js",
+    "index.html": "/vpatrol/index.html",
+    "main.1e57b296.css.map": "/vpatrol/static/css/main.1e57b296.css.map",
+    "main.9ef3557f.js.map": "/vpatrol/static/js/main.9ef3557f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e57b296.css",
+    "static/js/main.9ef3557f.js"
+  ]
+}
